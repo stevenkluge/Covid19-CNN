@@ -5,6 +5,7 @@ This is a deep-learning approach to the image classification of SARS-CoV-2 pneum
 ## Table of Contents
 
 * [General Information](#general-information)
+* [Results](#results)
 * [Technologies](#technologies)
 * [Usage](#usage)
 * [Datasets](#datasets)
@@ -12,6 +13,11 @@ This is a deep-learning approach to the image classification of SARS-CoV-2 pneum
 ## General Information
 
 This project was an introduction to machine learning and Computer Vision (CV), as well as the topic of my thesis work. During the timeframe of this project I had to tackle issues including: accounting for class imbalance, proper metric selection, data preprocessing, hyperparameter selection, platform-specific challenges with Arch Linux, among others. Project was developed for a GNU/Linux environment and while precautions were taken for platform-agnosticism, compatibility is not guaranteed.
+
+## Results
+
+![Model Performance Statistics](./images/Results.png)  
+![Confusion Matrix](./images/confusion%20matrix.png)  
 
 ## Technologies
 
@@ -23,6 +29,7 @@ This project was an introduction to machine learning and Computer Vision (CV), a
 * Bash
 
 ## Usage
+
 1. Download all databases to their respective directories in ./dataset
 2. Dataset Construction.ipynb
 3. Format Dicom Datasets.ipynb
