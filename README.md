@@ -1,6 +1,6 @@
 # SARS-CoV-2 X-Ray Classification Project
 
-This is a deep-learning approach to the image classification of SARS-CoV-2 pneumonia, non-SARS-CoV-2 Pneumonia, or normal findings from patient chest x-rays. This project was completed as part of a one semester thesis course at Laurentian University.
+This is a deep-learning approach to the image classification of SARS-CoV-2 pneumonia, non-SARS-CoV-2 Pneumonia, or normal findings from patient chest x-rays.
 
 ## Table of Contents
 
